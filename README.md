@@ -19,16 +19,11 @@ Archeum is a minimalist text editor that is really usefull if you've been in the
 
 The project is still under development so let me know if i should add something.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ### Built With
 * [Rust](https://www.rust-lang.org/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -52,10 +47,6 @@ cd Archeum
 ```sh
 cargo run
 ```
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -64,11 +55,7 @@ cargo run
 - [ ] Add Writing
 - [ ] Save System
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
