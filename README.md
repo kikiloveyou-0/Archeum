@@ -12,7 +12,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-(https://github.com/kikiloveyou-0/Archeum/blob/master/img/enter.png)
 Archeum is a minimalist text editor that is really usefull if you've been in the vim psychosis for to long.
 
 * Reject plugins, return to basic monke
