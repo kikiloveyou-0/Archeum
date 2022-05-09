@@ -40,13 +40,13 @@ First
   git clone https://github.com/kikiloveyou-0/Archeum
   ```
 * cd in the projet 
-```sh
-cd Archeum
-```
+  ```sh
+  cd Archeum
+  ```
 * build the project
-```sh
-cargo run
-```
+  ```sh
+  cargo run
+  ```
 <!-- ROADMAP -->
 ## Roadmap
 
