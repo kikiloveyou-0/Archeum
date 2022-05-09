@@ -15,7 +15,9 @@
 Archeum is a minimalist text editor that is really usefull if you've been in the vim psychosis for to long.
 
 * Reject plugins, return to basic monke
-* Great for people that are mentaly unstable and want to find inner peace being completely ouside of society.
+* Great for psychotic people that are insane about how 
+  great vim shortcuts are 
+  and want to find inner peace being completely ouside of hypocrisy.
 
 The project is still under development so let me know if i should add something.
 
