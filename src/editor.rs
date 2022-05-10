@@ -84,7 +84,7 @@ impl Editor {
         Terminal::cursor_position(&Position::default());
         if self.should_quit {
             Terminal::clear_screen();
-            println!("Goodbye.\r");
+            println!("See you next time!\r");
         } else {
             self.draw_rows();
             self.draw_status_bar();
